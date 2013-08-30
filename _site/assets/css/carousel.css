@@ -5,6 +5,25 @@
 body {
   padding-bottom: 40px;
   color: #5a5a5a;
+  font-family: "futura-pt-1","futura-pt-2";
+  font-size:20px;
+  font-weight:500;
+}
+
+h1{
+    font-family: "futura-pt-1","futura-pt-2";
+    font-weight: 300;
+    color:#fff;
+}
+h2, h3, h4, h5{
+    font-family: "futura-pt-1","futura-pt-2";
+    font-weight: 300;
+    color:#a0a0a0;
+    text-transform:uppercase;
+}
+
+.lead{
+  font-size: 24px
 }
 
 img.max{
@@ -18,6 +37,18 @@ img.fiddy{
 div.supporterlevels{
   padding:2em 0;
 }
+
+
+
+.conf-highlights h2{
+  border-bottom:2px solid #e0e0e0;
+}
+.conf-highlights img{
+  max-width:140px;
+}
+
+
+
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
@@ -46,7 +77,7 @@ div.supporterlevels{
 
 /* Declare heights because of positioning of img element */
 .carousel .item {
-  height: 500px;
+  height: 400px;
   background-color: #777;
 }
 .carousel-inner > .item > img {
@@ -54,7 +85,7 @@ div.supporterlevels{
   top: 0;
   left: 0;
   min-width: 100%;
-  height: 500px;
+  height: 400px;
 }
 
  
@@ -87,7 +118,7 @@ div.supporterlevels{
 ------------------------- */
 
 .featurette-divider {
-  margin: 80px 0; /* Space out the Bootstrap <hr> more */
+  margin: 40px 0; /* Space out the Bootstrap <hr> more */
 }
 
 /* Thin out the marketing headings */

@@ -7,13 +7,13 @@ categories: speakers
 
 <img src="/assets/img/nlconf/kendall.jpeg" class="pull-right img-thumbnail fiddy" />
 
-## Beyond the Debugger: Extending the Developer Tool Chain
+### Beyond the Debugger: Extending the Developer Tool Chain
 
 <p class="lead">A look at the tooling options that move beyond your local development environment out to where your applications live and back.  Formerly the kingdom of massive Application Lifecycle Management (ALM) suites, you can now get the goodness by assembling a suite of tools that fit your particular priorities and expectations.</p>
 
 We'll go through options for building, deploying, monitoring, and getting feedback on your applications.  Some examples will be specific to .NET and Java but the concepts are applicable to any software.  Free, cheap, open source and COTS options are all there to fit your situation and help you deliver!
 
-## About Kendall
+### About Kendall
 
 <p class="lead">Kendall Miller is one of the founding partners of Gibraltar Software, an Independent Software Vendor (ISV) that develops & markets commercial applications for .NET developers.</p>
 

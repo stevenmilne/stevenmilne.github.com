@@ -11,6 +11,10 @@ img.max{
   width:100%;
 }
 
+img.fiddy{
+  max-width:280px;
+}
+
 div.supporterlevels{
   padding:2em 0;
 }

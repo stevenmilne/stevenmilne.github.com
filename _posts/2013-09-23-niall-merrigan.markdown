@@ -19,5 +19,4 @@ This talk is aimed at people who would like to try presenting or are already doi
 <p class="lead">Niall is an Irish guy who managed to end up in Norway. He works in Capgemini Stavanger, and is also an Microsoft ASP.NET MVP, Friend Of RedGate and enthuastic (shouts a lot) about rugby.</p>
 
 By day he writes code and by night he sleeps and sometimes dreams of more code.
-
-[Twitter](https://twitter.com/kendallmiller) / [Blog](http://rocksolid.gibraltarsoftware.com/)
+ 

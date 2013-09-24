@@ -5,6 +5,7 @@ date:   2013-09-23 09:11:59
 categories: speakers
 ---
  
+<img src="/assets/img/nlconf/merrigan.jpg" class="pull-right img-thumbnail fiddy" />
 
 ### Presentations from beginner to not so beginner
 

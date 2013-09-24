@@ -6,7 +6,7 @@ categories: speakers
 ---
  
 
-<img src="/assets/img/nlconf/sarah.jpeg" class="pull-right img-thumbnail fiddy" />
+<img src="/assets/img/nlconf/sarah.jpg" class="pull-right img-thumbnail fiddy" />
 
 ### Sarah Drummond
 

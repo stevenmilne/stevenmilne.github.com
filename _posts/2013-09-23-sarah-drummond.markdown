@@ -10,9 +10,8 @@ categories: speakers
 
 ### Sarah Drummond
 
-<p class="lead">One of the most dreaded things for most people is giving a presentation. It is an essential tool in business, a way to get things done, get people to work with you and share ideas. However it is a skill that requires time and practice and the conquering of the dreaded nerves factor.</p>
-
-Sarah will be talking about Do-tanks for government, living life in perpetual beta and being comfortable with the unknown.  
+<p class="lead"> 
+Sarah will be talking about Do-tanks for government, living life in perpetual beta and being comfortable with the unknown.  </p>
 
 ### About Sarah
 

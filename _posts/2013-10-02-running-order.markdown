@@ -5,11 +5,11 @@ date:   2013-10-02 09:11:59
 categories: speakers
 ---
  
- 
+Northern Lights 2013 takes place on the 18th October in Aberdeen. Lasting all day, with a packed speaker schedule and new open space sessions the schedule is as follows:
 
-08:30 REGISTRATION / COFFEE
+#### 08:30 REGISTRATION / COFFEE
 
-09:20 Welcome
+#### 09:20 Welcome
 
 09:30 Opening Keynote [Hadi Hariri](http://northernlightsconf.co.uk/speakers/2013/09/23/hadi-hariri.html)
 

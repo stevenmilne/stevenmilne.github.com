@@ -13,7 +13,7 @@ Northern Lights 2013 takes place on the 18th October in Aberdeen. Lasting all da
 
 ### 09:30 Opening Keynote [Hadi Hariri](http://northernlightsconf.co.uk/speakers/2013/09/23/hadi-hariri.html)
 
-### 10:10 Maria Gutierrez
+### 10:10 [Maria Gutierrez](http://northernlightsconf.co.uk/speakers/2013/10/02/maria-gutierrez.html)
 
 ### 10:40 COFFEE
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Maria Gutierrez Speaker Announcement"
-date:   2013-09-24 15:11:59
+date:   2013-10-02 15:11:59
 categories: speakers
 ---
  

@@ -15,7 +15,7 @@ Sarah will be talking about Do-tanks for government, living life in perpetual be
 
 ### About Sarah
 
-<p class="lead">Sarah is the co-founder and Director of Design at [Snook](http://wearesnook.com/snook/), a Glasgow based social innovation outfit working with the public, private and third sector to rethink the way people live.</p>
+<p class="lead">Sarah is the co-founder and Director of Design at <a href="http://wearesnook.com/snook/">Snook</a>, a Glasgow based social innovation outfit working with the public, private and third sector to rethink the way people live.</p>
 
 With a Masters of Design Innovation from Glasgow School of Art and a Google Fellowship, Sarah is a social entrepreneur, unashamedly proving the value of design within government.  As the winner of the first Scottish Social Innovation Camp, Sarah is ambitiously challenging the way governments operate and make policies through initiatives such as MyPolice, an online feedback platform for the public to feedback on police performance.
  

@@ -21,7 +21,7 @@ Northern Lights 2013 takes place on the 18th October in Aberdeen. Lasting all da
 
 ### 11:50 [Kate Stone](http://northernlightsconf.co.uk/speakers/2013/09/23/kate-stone.html)
 
-### 12:30 [Glenn Hendriksen](http://northernlightsconf.co.uk/speakers/2013/09/23/glenn-henriksen.html)
+### 12:30 [Glenn Henriksen](http://northernlightsconf.co.uk/speakers/2013/09/23/glenn-henriksen.html)
 
 ### 13:10 LUNCH
 

@@ -1,0 +1,17 @@
+<header class="site-header">
+
+  <div class="wrap">
+
+    <a class="site-title" href="{{ site.baseurl }}/"><img src="/assets/img/brand/email-head.jpg" /></a> 
+
+    <nav class="site-nav">
+  
+        {% for page in site.pages %}
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        {% endfor %}
+ 
+    </nav>
+
+  </div>
+
+</header>

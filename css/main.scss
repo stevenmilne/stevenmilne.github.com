@@ -1,0 +1,82 @@
+---
+---
+
+@import 'bourbon/bourbon';
+@import 'grid-settings';
+@import 'neat/neat';
+@import 'base/base';
+
+body{
+	margin:0;
+}
+
+header{
+	background:#060606;
+	div.wrap{
+		@include outer-container;
+	}
+} 
+
+
+nav{ 
+	@include outer-container;
+		background:#808080;
+	a{
+		display:block;
+		@include span-columns(3);
+		background:#e0e0e0;
+		float:left;
+	}
+}
+
+div.home{
+	@include outer-container;
+	#mc_embed_signup{
+		@include span-columns(6); 
+
+	}
+	.updates{
+		@include span-columns(6);
+
+	}
+}
+
+div.page-content{
+	@include outer-container;
+	.sidebar{
+		@include span-columns(3);
+
+	}
+	.main{
+		@include span-columns(12);
+	}
+}
+
+div.highlight-projects{
+	@include outer-container;
+	padding:1em 0;
+	section{
+
+		@include span-columns(3);
+	}
+} 
+
+article.post-content{
+	section{
+		@include outer-container;
+		div{ 
+			@include span-columns(8); 
+		}
+		aside{ 
+			@include span-columns(4); 
+		}
+	}
+}
+
+footer{
+	background:#060606;
+	section.wrap{
+	@include outer-container;
+ 
+	}
+} 

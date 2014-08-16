@@ -1,3 +1,13 @@
-name: Fifth Ring Minisite
-markdown: redcarpet
-pygments: true
+# Site settings
+title: Northern Lights Conferencess
+title2: Northern Lights Conferencess
+email: steve@refreshaberdeen.com
+description: "Description"
+baseurl: ""
+url: "http://northernlightsconf.co.uk"
+sass:
+ sass_dir: _sass
+
+# Build settings
+markdown: kramdown
+permalink: pretty

@@ -1,8 +1,7 @@
 # Site settings
-title: Northern Lights Conferencess
-title2: Northern Lights Conferencess
+title: Northern Lights Conference
 email: steve@refreshaberdeen.com
-description: "Description"
+description: "Tech conference held in Aberdeen, Scotland inspiring geeks of all creeds to better ourselves and our communites"
 baseurl: ""
 url: "http://northernlightsconf.co.uk"
 sass:

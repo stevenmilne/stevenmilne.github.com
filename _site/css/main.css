@@ -245,7 +245,8 @@ nav {
 div.home {
   max-width: 52.5em;
   margin-left: auto;
-  margin-right: auto; }
+  margin-right: auto;
+  padding: 1em; }
   div.home:after {
     content: "";
     display: table;

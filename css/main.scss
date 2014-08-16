@@ -31,6 +31,7 @@ nav{
 
 div.home{
 	@include outer-container;
+	padding:1em;
 	#mc_embed_signup{
 		@include span-columns(6); 
 

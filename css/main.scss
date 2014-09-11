@@ -74,8 +74,7 @@ div.page-content{
 		@include span-columns(12);
 	}
 }
-div.picwrap{
-  border-top:10px solid #07A19B;
+div.picwrap{ 
 	background:url(/assets/img/brand/fade2.gif) #e0e0e0;
 	background-size:cover;
 }

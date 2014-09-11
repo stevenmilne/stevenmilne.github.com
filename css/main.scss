@@ -113,6 +113,7 @@ footer{
 }
 
 .speak{
+	border-bottom: 1px solid #09D4CC;
 	section{
     @include media($large-screen) {
 			@include span-columns(9); 

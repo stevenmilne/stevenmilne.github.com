@@ -488,9 +488,17 @@ div.home {
     float: left;
     display: block;
     margin-right: 2.35765%;
-    width: 48.82117%; }
+    width: 100%; }
     div.home .updates:last-child {
       margin-right: 0; }
+    @media screen and (min-width: 40em) {
+      div.home .updates {
+        float: left;
+        display: block;
+        margin-right: 2.35765%;
+        width: 48.82117%; }
+        div.home .updates:last-child {
+          margin-right: 0; } }
 
 div.page-content {
   max-width: 52.5em;

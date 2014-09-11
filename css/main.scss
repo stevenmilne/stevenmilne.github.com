@@ -55,7 +55,11 @@ div.home{
 
 	}
 	.updates{
+		@include span-columns(12);
+
+    @include media($large-screen) {
 		@include span-columns(6);
+	}
 
 	}
 }

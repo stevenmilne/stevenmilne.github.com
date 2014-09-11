@@ -113,8 +113,10 @@ footer{
 }
 
 .speak{
-	border-bottom: 1px solid #09D4CC;
+	padding:1em;
 	section{
+	padding:1em;
+	border-bottom: 1px solid #09D4CC;
     @include media($large-screen) {
 			@include span-columns(9); 
 		}

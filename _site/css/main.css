@@ -588,17 +588,20 @@ footer {
   padding: 1em; }
 
 .speak {
-  border-bottom: 1px solid #09D4CC; }
-  @media screen and (min-width: 40em) {
-    .speak section {
-      float: left;
-      display: block;
-      margin-right: 2.35765%;
-      width: 74.41059%; }
-      .speak section:last-child {
-        margin-right: 0; } }
-  .speak section a {
-    color: #09D4CC; }
+  padding: 1em; }
+  .speak section {
+    padding: 1em;
+    border-bottom: 1px solid #09D4CC; }
+    @media screen and (min-width: 40em) {
+      .speak section {
+        float: left;
+        display: block;
+        margin-right: 2.35765%;
+        width: 74.41059%; }
+        .speak section:last-child {
+          margin-right: 0; } }
+    .speak section a {
+      color: #09D4CC; }
   .speak aside img {
     width: 6em; }
   @media screen and (min-width: 40em) {

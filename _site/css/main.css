@@ -529,7 +529,8 @@ div.page-content {
       margin-right: 0; }
 
 div.picwrap {
-  background: url(/assets/img/brand/fade2.gif);
+  border-top: 10px solid #07A19B;
+  background: url(/assets/img/brand/fade2.gif) #e0e0e0;
   background-size: cover; }
 
 div.highlight-projects {

@@ -209,12 +209,12 @@ input[type="submit"] {
   white-space: nowrap; }
 
 .hero {
-  background: url("/assets/img/brand/blur2.jpg"), -webkit-linear-gradient(-280deg, #217142, #214271), no-repeat #214271 scroll;
-  background: url("/assets/img/brand/blur2.jpg"), linear-gradient(10deg, #217142, #214271), no-repeat #214271 scroll;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  padding-bottom: 0em; }
+  padding-bottom: 0em;
+  background: url("/assets/img/brand/blur2.jpg") no-repeat center center fixed;
+  background-size: cover; }
   .hero .hero-logo img {
     height: 3em;
     margin-bottom: 2.5em; }

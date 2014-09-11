@@ -8,12 +8,16 @@
   $gradient-angle: 10deg;
   $hero-image: '/assets/img/brand/blur2.jpg';
 
-  @include background(url($hero-image), linear-gradient($gradient-angle, $hero-background-bottom, $hero-background-top), no-repeat $hero-background-top scroll);
+  //@include background(url($hero-image), linear-gradient($gradient-angle, $hero-background-bottom, $hero-background-top), no-repeat $hero-background-top scroll);
 
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   padding-bottom: 0em;
+
+background: url($hero-image) no-repeat center center fixed; 
+background-size:cover;
+  
 
   .hero-logo img {
     height: 3em;

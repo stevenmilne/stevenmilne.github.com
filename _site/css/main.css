@@ -388,12 +388,10 @@ input[type="submit"] {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  height: 14em;
   background: transparent;
   width: 100%;
   overflow: hidden;
   float: left;
-  padding: 2em;
   border-top: 0;
   border-bottom: 9px solid transparent;
   border-left: 4.5px solid transparent;
@@ -402,6 +400,7 @@ input[type="submit"] {
   cursor: pointer; }
   @media screen and (min-width: 40em) {
     .grid-items .grid-item {
+      height: 14em;
       width: 33.33333%; } }
 .grid-items .grid-item img {
   display: block;

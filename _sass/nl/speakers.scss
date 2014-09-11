@@ -45,6 +45,12 @@
     vertical-align: $comment-image-vert-alignment;
   }
 
+.comment-content{
+  img{
+    float:right;
+    width:8em;
+  }
+}
   .comment-image {
     padding-right: $comment-gutter;
 

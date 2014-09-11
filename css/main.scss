@@ -112,5 +112,27 @@ footer{
 	padding:1em;
 }
 
+.speak{
+	section{
+    @include media($large-screen) {
+			@include span-columns(9); 
+		}
+  a{
+    color:#09D4CC;
+  }
+	}
+	aside{ 
+			img{
+				width:6em;
+			}
+    @include media($large-screen) {
+		text-align:right;
+			@include span-columns(3); 
+			img{
+				width:90%;
+			}
+		}
 
+	}
+}
  

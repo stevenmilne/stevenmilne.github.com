@@ -6,35 +6,5 @@
   </div>
 
 
-   {% for post in site.speakers %}
-  <div class="comment">
-    <div class="comment-image">
-      <img src="{{ post.img }}" alt="">
-    </div>
-    <div class="comment-content">
-      <h1>{{ post.short_title }}</h1>  
-      {{ post.content }}
-       
-      <p>{% if post.twitter %} <a href="{{ post.twitter}}"><i class="fa fa-twitter fa-2x"></i></a>  {% endif %} 
-       {% if post.blog %} <a href="{{ post.blog}}"><i class="fa fa-wordpress fa-2x"></i></a> {% endif %} </p>
-    </div>
-  </div>
-
-
-   
-          
-          {% endfor %}
-   
-
-   
-  <div class="comment">
-    <div class="comment-image"> 
-      <img src="/assets/img/2014/speakers/hex-blank.jpg" alt="">
-    </div>
-    <div class="comment-content">
-      <h1>More TBC</h1>
-      <p>We'll be announcing more speakers over the coming weeks.</p> 
-    </div>
-  </div>
 </div>
 </div>

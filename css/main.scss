@@ -6,6 +6,18 @@
 @import 'neat/neat';
 @import 'base/base';
 
+$large-screen:40em;
+$medium-screen:30em;
+
+
+
+  @import 'nl/hero';
+
+
+@import 'nl/speakers';
+@import 'nl/sponsors';
+
+
 body{
 	margin:0;
 }
@@ -17,6 +29,12 @@ header{
 	}
 } 
 
+.site-title{
+	img{
+		height:80px;
+		width:auto;
+	}
+}
 
 nav{ 
 	@include outer-container;
@@ -52,7 +70,10 @@ div.page-content{
 		@include span-columns(12);
 	}
 }
-
+div.picwrap{
+	background:url(/assets/img/brand/fade2.gif) ;
+	background-size:cover;
+}
 div.highlight-projects{
 	@include outer-container;
 	padding:1em 0;
@@ -81,3 +102,11 @@ footer{
  
 	}
 } 
+
+.fcontact{
+	text-align:center;
+	padding:1em;
+}
+
+
+ 

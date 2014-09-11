@@ -10,3 +10,11 @@ sass:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+collections:
+  sponsors:
+    output: true
+    permalink: /sponsors/:path/
+  speakers:
+    output: true
+    permalink: /speakers/:path/

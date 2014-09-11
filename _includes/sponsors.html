@@ -1,0 +1,18 @@
+
+<div id="sponsors">
+  <div class="wrap">
+  	<div class="grid-items">
+<h1>Our Sponsors</h1>
+<p>We'd like to thank our sponsors. Without their help we just couldn't run the conference.</p>
+ {% for post in site.sponsors reversed %}
+   <a href="{{ post.website }}" class="grid-item">
+    <img src="{{ post.img }}" alt="{{ post.short_title }}" title="{{ post.short_title }}"> 
+  </a>
+
+        
+        {% endfor %}
+ 
+
+</div>
+</div>
+</div>

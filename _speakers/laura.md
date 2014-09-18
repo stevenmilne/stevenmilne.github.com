@@ -10,7 +10,7 @@ twitter: https://twitter.com/IFB_LTD
 blog:  
 ---
 
-Wearable technology may seem like the latest consumer gadgets that has little relevance in a business environment or to the average Joe Bloggs. However, wearing a piece of kit, that allows data to be captured, digitalised, stored and catalogued is invaluable and a real step change in the way we do things.
+<p>Wearable technology may seem like the latest consumer gadgets that has little relevance in a business environment or to the average Joe Bloggs. However, wearing a piece of kit, that allows data to be captured, digitalised, stored and catalogued is invaluable and a real step change in the way we do things.</p>
 
-Laura currently works for Aberdeen based IT services provider <a href="http://www.ifb.net/">IFB</a>, managing the marketing of their key services.  Laura keeps a keen eye on the technology industry; the trends, new concepts and the latest gadget and often blogs and runs events on what’s new in the industry.
+<p>Laura currently works for Aberdeen based IT services provider <a href="http://www.ifb.net/">IFB</a>, managing the marketing of their key services.  Laura keeps a keen eye on the technology industry; the trends, new concepts and the latest gadget and often blogs and runs events on what’s new in the industry.</p>
   

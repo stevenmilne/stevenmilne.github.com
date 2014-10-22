@@ -90,3 +90,13 @@
   }
 }
 
+
+#team{
+  background:#fff;
+  border-top:10px solid #07A19B;
+  border-bottom:10px solid #07A19B;
+  color:#333;
+  div.wrap{
+  @include outer-container;
+  }
+}

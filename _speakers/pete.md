@@ -9,7 +9,7 @@ website: http://scotlandj.io
 twitter: https://twitter.com/jiggypete
 ---
 
-<p>Peter Aitken is an agile Ruby and JavaScript developer who spends his days working with the awesome team at Cultivate.
+<p>Peter Aitken is an agile Ruby and JavaScript developer who spends his days working with the awesome team at <a href="http://www.cultivatehq.com">Cultivate</a>.
 By night he can be found thinking of ways to make our community more inclusive.
-In between dog walks, swimming and helping with homework, Peter organises the yearly ScotlandCSS and ScotlandJS conferences.</p>
+In between dog walks, swimming and helping with homework, Peter organises the yearly <a href="http://scotlandcss.com">ScotlandCSS</a> and <a href="http://scotlandjs.com">ScotlandJS</a> conferences.</p>
   

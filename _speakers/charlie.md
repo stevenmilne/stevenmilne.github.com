@@ -9,5 +9,5 @@ website: https://charlieegan3.com
 twitter: https://twitter.com/charlieegan3
 ---
 
-<p>Charlie Egan is a Ruby developer at Unboxed Consulting. When he's not coding, then he's teaching others to code, or out running.</p>
+<p>Charlie Egan is a Ruby developer at <a href="https://unboxed.co">Unboxed Consulting</a>. When he's not coding, then he's teaching others to code, or out running.</p>
   

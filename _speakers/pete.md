@@ -5,7 +5,7 @@ short_title:  "Peter Aitken"
 date:   2016-12-10 16:24:26 
 excerpt: Peter Aitken Inclusion 
 img: /assets/img/2016/speakers/pete.jpg 
-website: http://scotlandj.io
+website: http://scotlandjs.com
 twitter: https://twitter.com/jiggypete
 ---
 

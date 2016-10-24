@@ -6,7 +6,7 @@ date:   2016-12-10 16:24:26
 excerpt: Peter Aitken Inclusion 
 img: /assets/img/2016/speakers/pete.jpg 
 website: http://scotlandjs.com
-twitter: https://twitter.com/jiggypete
+twitter: https://twitter.com/jiggy_pete
 ---
 
 <p>Peter Aitken is an agile Ruby and JavaScript developer who spends his days working with the awesome team at <a href="http://www.cultivatehq.com">Cultivate</a>.
